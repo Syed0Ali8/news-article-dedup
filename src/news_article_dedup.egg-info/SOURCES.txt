@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/news_article_dedup/__init__.py
+src/news_article_dedup/deduplication.py
+src/news_article_dedup.egg-info/PKG-INFO
+src/news_article_dedup.egg-info/SOURCES.txt
+src/news_article_dedup.egg-info/dependency_links.txt
+src/news_article_dedup.egg-info/top_level.txt
+tests/test_deduplication.py

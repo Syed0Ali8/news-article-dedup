@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/xpanceo/__init__.py
+src/xpanceo/deduplication.py
+src/xpanceo.egg-info/PKG-INFO
+src/xpanceo.egg-info/SOURCES.txt
+src/xpanceo.egg-info/dependency_links.txt
+src/xpanceo.egg-info/top_level.txt
+tests/test_deduplication.py
